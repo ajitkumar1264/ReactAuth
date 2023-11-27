@@ -3,8 +3,8 @@ const mysql=require('mysql2');
 const MySQLconnect=mysql.createConnection({
     host:"localhost",
     user:"root",
-    password:"Hrdk1264@",
-    database:"JstokenAuth"
+    password:"______",
+    database:"__________"
 })
 
 
